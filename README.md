@@ -3,7 +3,7 @@
 https://ayrgthon.github.io/dcp.html
 
 # Explorando la Riqueza Natural de La Guajira: Un Proyecto de Visualización Dinámica para Analizar y Conservar Especies en Peligro a través de un Tablero Interactivo de Biodiversidad
-
+# Integrantes: Juan Esteban Albis, Jesús David Arevalo y Ayrgthon Soracá
 ## Descripción:
 Este proyecto tiene como objetivo principal analizar y comprender la diversidad biológica en el departamento colombiano de La Guajira, específicamente en la región de Cerrejón. Para lograr esto, se ha recopilado un extenso conjunto de datos de biodiversidad entre los años 2005 y 2020, abarcando información sobre la presencia y ausencia de especies, así como su clasificación taxonómica.
 El análisis se centra en la abundancia, riqueza y composición de especies en la región de Cerrejón, con el fin de identificar áreas prioritarias para la conservación y comprender las amenazas que enfrentan las especies más vulnerables.
